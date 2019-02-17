@@ -13,10 +13,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ssm_test01" target="1.5" />
-      <module name="ssm_test01_domain" target="1.5" />
-      <module name="ssm_test01_mapper" target="1.5" />
-      <module name="ssm_test01_service" target="1.5" />
+      <module name="ssm_test01" target="1.8" />
+      <module name="ssm_test01_domain" target="1.8" />
+      <module name="ssm_test01_mapper" target="1.8" />
+      <module name="ssm_test01_service" target="1.8" />
       <module name="ssm_test01_web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
